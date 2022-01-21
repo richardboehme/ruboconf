@@ -1,1 +1,3 @@
 inherit_from: ruboconf.yml
+AllCops:
+  SuggestExtensions: false
