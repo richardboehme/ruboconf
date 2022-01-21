@@ -16,3 +16,4 @@ AllCops:
   Exclude:
     - 'db/schema.rb'
     - 'bin/{rails,bundle,rake,setup}'
+    - 'vendor/bundle/**/*'
