@@ -1,0 +1,20 @@
+Metrics/AbcSize:
+  Enabled: false
+
+Metrics/BlockLength:
+  Max: 100
+  # Test files typically exist of huge blocks so want to skip those.
+  Exclude:
+    - test/*
+
+Metrics/ClassLength:
+  Max: 1000
+
+Metrics/CyclomaticComplexity:
+  Enabled: false
+
+Metrics/MethodLength:
+  Max: 100
+
+Metrics/PerceivedComplexity:
+  Enabled: false

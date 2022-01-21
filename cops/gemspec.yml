@@ -1,0 +1,5 @@
+Gemspec/DateAssignment:
+  Enabled: true
+
+Gemspec/RequireMFA:
+  Enabled: true

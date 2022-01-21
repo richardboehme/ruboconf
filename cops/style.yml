@@ -1,0 +1,125 @@
+Style/ArgumentsForwarding:
+  Enabled: true
+
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
+
+Style/CollectionCompact:
+  Enabled: true
+
+Style/Documentation:
+  Enabled: false
+
+Style/DocumentDynamicEvalDefinition:
+  Enabled: true
+
+Style/EndlessMethod:
+  Enabled: true
+
+Style/FileRead:
+  Enabled: true
+
+Style/FileWrite:
+  Enabled: true
+
+Style/FrozenStringLiteralComment:
+  Enabled: true
+
+Style/GlobalStdStream:
+  Enabled: true
+
+Style/GuardClause:
+  Enabled: false
+
+Style/HashConversion:
+  Enabled: true
+
+Style/HashExcept:
+  Enabled: true
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+Style/IfWithBooleanLiteralBranches:
+  Enabled: false
+
+Style/InPatternThen:
+  Enabled: false
+
+Style/Lambda:
+  EnforcedStyle: literal
+
+Style/LambdaCall:
+  EnforcedStyle: braces
+
+Style/MapToHash:
+  Enabled: true
+
+Style/MultilineInPatternThen:
+  Enabled: true
+
+Style/NegatedIf:
+  Enabled: true
+
+Style/NegatedIfElseCondition:
+  Enabled: false
+
+Style/Next:
+  Enabled: false
+
+Style/NilLambda:
+  Enabled: true
+
+Style/NumberedParameters:
+  Enabled: true
+
+Style/NumberedParametersLimit:
+  Enabled: true
+
+Style/NumericLiterals:
+  Enabled: true
+
+Style/OpenStructUse:
+  Enabled: true
+
+Style/PercentLiteralDelimiters:
+  PreferredDelimiters:
+    default: '()'
+    '%i': '()'
+    '%I': '()'
+    '%r': '()'
+    '%w': '()'
+    '%W': '()'
+
+Style/QuotedSymbols:
+  Enabled: true
+
+Style/RedundantArgument:
+  Enabled: true
+
+Style/RedundantFetchBlock:
+  Enabled: true
+
+Style/RedundantFreeze:
+  Enabled: true
+
+Style/RedundantSelf:
+  Enabled: true
+
+Style/RedundantSelfAssignmentBranch:
+  Enabled: true
+
+Style/SelectByRegexp:
+  Enabled: true
+
+Style/StringChars:
+  Enabled: true
+
+Style/SwapValues:
+  Enabled: true
+
+Style/SymbolArray:
+  EnforcedStyle: brackets
+
+Style/TrailingCommaInHashLiteral:
+  Enabled: true

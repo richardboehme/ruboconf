@@ -20,7 +20,7 @@ Add the following to your project's `.rubocop.yml`:
 
 ```yml
 inherit_gem:
-    ruboconf: .rubocop.yml
+  ruboconf: ruboconf.yml
 ```
 
 ## Usage

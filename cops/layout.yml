@@ -1,0 +1,46 @@
+Layout/ArgumentAlignment:
+  EnforcedStyle: with_fixed_indentation
+  IndentationWidth: 2
+
+# I'm unsure about that one but I'm used to this style.
+Layout/DotPosition:
+  EnforcedStyle: trailing
+
+Layout/ClosingParenthesisIndentation:
+  Enabled: true
+
+Layout/EmptyLines:
+  Enabled: true
+
+Layout/EmptyLineAfterMagicComment:
+  Enabled: true
+
+Layout/EmptyLinesAroundBlockBody:
+  Enabled: true
+
+Layout/ExtraSpacing:
+  Enabled: true
+
+Layout/FirstArgumentIndentation:
+  Enabled: true
+
+Layout/LineEndStringConcatenationIndentation:
+  Enabled: true
+
+Layout/MultilineMethodCallBraceLayout:
+  Enabled: true
+
+Layout/LineLength:
+  Max: 200
+
+Layout/SpaceBeforeBrackets:
+  Enabled: true
+
+Layout/SpaceInsideArrayLiteralBrackets:
+  Enabled: true
+
+Layout/SpaceInsideHashLiteralBraces:
+  Enabled: true
+
+Layout/TrailingEmptyLines:
+  Enabled: true
