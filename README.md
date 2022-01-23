@@ -4,7 +4,7 @@ Opinionated RuboCop configuration for personal projects.
 
 Those configurations are chosen based on my subjective feelings about some cops. I do not plan to accept Pull Requests, besides for objectively better configuration options.
 
-If you want to use RuboCop Rails you might be interested in [ruboconf-rails](https://github.com/richardboehme/ruboconf-rails)
+If you want to use RuboCop Rails you might be interested in [ruboconf-rails](https://github.com/richardboehme/ruboconf-rails).
 
 ## Installation
 
