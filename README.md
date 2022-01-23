@@ -1,6 +1,6 @@
 # ruboconf
 
-Opinionated Rubocop configuration for personal projects.
+Opinionated RuboCop configuration for personal projects.
 
 Those configurations are chosen based on my subjective feelings about some cops. I do not plan to accept Pull Requests, besides for objectively better configuration options.
 
@@ -25,7 +25,7 @@ inherit_gem:
 
 ## Usage
 
-Make sure to execute rubocop using bundler:
+Make sure to execute RuboCop using bundler:
 
     $ bundle exec rubocop <options>
 
@@ -37,7 +37,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-As stated above, I do not plan to accept Pull Requests. The only exception to this would be discussions about rubocop updates and objectively better configurations.
+As stated above, I do not plan to accept Pull Requests. The only exception to this would be discussions about RuboCop updates and objectively better configurations.
 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the code of conduct.
 
