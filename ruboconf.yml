@@ -14,4 +14,7 @@ inherit_from:
 
 AllCops:
   Exclude:
-    - 'vendor/bundle/**/*'
+    - 'node_modules/**/*'
+    - 'tmp/**/*'
+    - 'vendor/**/*'
+    - '.git/**/*'
