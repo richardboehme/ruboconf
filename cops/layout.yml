@@ -33,6 +33,9 @@ Layout/MultilineMethodCallBraceLayout:
 Layout/LineLength:
   Max: 200
 
+Layout/SpaceAroundOperators:
+  EnforcedStyleForExponentOperator: space
+
 Layout/SpaceBeforeBrackets:
   Enabled: true
 
