@@ -13,6 +13,9 @@ Style/Documentation:
 Style/DocumentDynamicEvalDefinition:
   Enabled: true
 
+Style/EmptyMethod:
+  EnforcedStyle: expanded
+
 Style/EndlessMethod:
   Enabled: true
 
