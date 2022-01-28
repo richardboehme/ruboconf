@@ -40,6 +40,9 @@ Style/HashConversion:
 Style/HashExcept:
   Enabled: true
 
+Style/HashSyntax:
+  EnforcedShorthandSyntax: either
+
 Style/IfUnlessModifier:
   Enabled: false
 
