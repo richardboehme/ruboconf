@@ -70,6 +70,9 @@ Style/NegatedIf:
 Style/NegatedIfElseCondition:
   Enabled: false
 
+Style/NestedFileDirname:
+  Enabled: true
+
 Style/Next:
   Enabled: false
 
