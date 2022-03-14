@@ -18,3 +18,4 @@ AllCops:
     - 'tmp/**/*'
     - 'vendor/**/*'
     - '.git/**/*'
+  SuggestExtensions: false
