@@ -24,6 +24,12 @@ Layout/ExtraSpacing:
 Layout/FirstArgumentIndentation:
   Enabled: true
 
+Layout/LineContinuationLeadingSpace:
+  Enabled: true
+
+Layout/LineContinuationSpacing:
+  Enabled: true
+
 Layout/LineEndStringConcatenationIndentation:
   Enabled: true
 

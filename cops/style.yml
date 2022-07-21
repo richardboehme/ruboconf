@@ -13,10 +13,19 @@ Style/Documentation:
 Style/DocumentDynamicEvalDefinition:
   Enabled: true
 
+Style/EmptyHeredoc:
+  Enabled: true
+
 Style/EmptyMethod:
   EnforcedStyle: expanded
 
 Style/EndlessMethod:
+  Enabled: true
+
+Style/EnvHome:
+  Enabled: true
+
+Style/FetchEnvVar:
   Enabled: true
 
 Style/FileRead:
@@ -58,6 +67,9 @@ Style/Lambda:
 Style/LambdaCall:
   EnforcedStyle: braces
 
+Style/MapCompactWithConditionalBlock:
+  Enabled: true
+
 Style/MapToHash:
   Enabled: true
 
@@ -88,6 +100,9 @@ Style/NumberedParametersLimit:
 Style/NumericLiterals:
   Enabled: true
 
+Style/ObjectThen:
+  Enabled: true
+
 Style/OpenStructUse:
   Enabled: true
 
@@ -110,6 +125,9 @@ Style/RedundantFetchBlock:
   Enabled: true
 
 Style/RedundantFreeze:
+  Enabled: true
+
+Style/RedundantInitialize:
   Enabled: true
 
 Style/RedundantSelf:

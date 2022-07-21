@@ -7,6 +7,9 @@ Lint/AmbiguousOperatorPrecedence:
 Lint/AmbiguousRange:
   Enabled: true
 
+Lint/ConstantOverwrittenInRescue:
+  Enabled: true
+
 Lint/DeprecatedConstants:
   Enabled: true
 
@@ -34,6 +37,9 @@ Lint/LambdaWithoutLiteralBlock:
 Lint/NoReturnInBeginEndBlocks:
   Enabled: true
 
+Lint/NonAtomicFileOperation:
+  Enabled: true
+
 Lint/NumberedParameterAssignment:
   Enabled: true
 
@@ -41,6 +47,12 @@ Lint/OrAssignmentToConstant:
   Enabled: true
 
 Lint/RedundantDirGlobSort:
+  Enabled: true
+
+Lint/RefinementImportMethods:
+  Enabled: true
+
+Lint/RequireRangeParentheses:
   Enabled: true
 
 Lint/RequireRelativeSelfPath:

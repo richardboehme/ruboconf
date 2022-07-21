@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.summary = 'Opinionated Rubocop configuration for personal projects.'
   spec.homepage = 'https://github.com/richardboehme/ruboconf'
   spec.license = 'MIT'
-  spec.required_ruby_version = '>= 2.5.0'
+  spec.required_ruby_version = '>= 2.6.0'
 
   spec.metadata['homepage_uri'] = spec.homepage
   spec.metadata['source_code_uri'] = 'https://github.com/richardboehme/ruboconf'
@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
     end
   end
 
-  spec.add_dependency 'rubocop', '~> 1.26'
+  spec.add_dependency 'rubocop', '~> 1.32'
   spec.add_dependency 'rubocop-performance', '~> 1.13'
   spec.metadata['rubygems_mfa_required'] = 'true'
 end

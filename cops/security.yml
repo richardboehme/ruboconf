@@ -1,2 +1,5 @@
+Security/CompoundHash:
+  Enabled: true
+
 Security/IoMethods:
   Enabled: true
