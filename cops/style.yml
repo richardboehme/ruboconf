@@ -67,6 +67,9 @@ Style/Lambda:
 Style/LambdaCall:
   EnforcedStyle: braces
 
+Style/MagicCommentFormat:
+  Enabled: true
+
 Style/MapCompactWithConditionalBlock:
   Enabled: true
 
