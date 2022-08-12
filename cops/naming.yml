@@ -3,3 +3,7 @@ Naming/BlockForwarding:
 
 Naming/VariableNumber:
   EnforcedStyle: snake_case
+
+Naming/MethodParameterName:
+  Enabled: false
+
