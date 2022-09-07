@@ -16,5 +16,9 @@ Metrics/CyclomaticComplexity:
 Metrics/MethodLength:
   Max: 100
 
+Metrics/ParameterLists:
+  Max: 20
+  MaxOptionalParameters: 20
+
 Metrics/PerceivedComplexity:
   Enabled: false
