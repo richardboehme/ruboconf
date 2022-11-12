@@ -24,6 +24,9 @@ Layout/ExtraSpacing:
 Layout/FirstArgumentIndentation:
   Enabled: true
 
+Layout/FirstArrayElementIndentation:
+  EnforcedStyle: consistent
+
 Layout/LineContinuationLeadingSpace:
   Enabled: true
 
