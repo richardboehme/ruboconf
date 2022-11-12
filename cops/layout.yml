@@ -36,6 +36,9 @@ Layout/LineEndStringConcatenationIndentation:
 Layout/MultilineMethodCallBraceLayout:
   Enabled: true
 
+Layout/MultilineOperationIndentation:
+  EnforcedStyle: indented
+
 Layout/LineLength:
   Max: 200
 
