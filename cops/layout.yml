@@ -39,6 +39,9 @@ Layout/LineEndStringConcatenationIndentation:
 Layout/MultilineMethodCallBraceLayout:
   Enabled: true
 
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
+
 Layout/MultilineOperationIndentation:
   EnforcedStyle: indented
 
