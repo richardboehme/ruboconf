@@ -3,3 +3,6 @@ Gemspec/DeprecatedAttributeAssignment:
 
 Gemspec/RequireMFA:
   Enabled: true
+
+Gemspec/DevelopmentDependencies:
+  Enabled: true

@@ -10,6 +10,9 @@ Metrics/BlockLength:
 Metrics/ClassLength:
   Max: 1000
 
+Metrics/CollectionLiteralLength:
+  Enabled: true
+
 Metrics/CyclomaticComplexity:
   Enabled: false
 
