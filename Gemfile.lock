@@ -3,7 +3,7 @@ PATH
   specs:
     ruboconf (1.11.0)
       rubocop (~> 1.54)
-      rubocop-performance (~> 1.17)
+      rubocop-performance (~> 1.18)
 
 GEM
   remote: https://rubygems.org/
