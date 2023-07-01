@@ -40,6 +40,9 @@ Style/EndlessMethod:
 Style/EnvHome:
   Enabled: true
 
+Style/ExactRegexpMatch:
+  Enabled: true
+
 Style/FetchEnvVar:
   Enabled: true
 
@@ -138,20 +141,26 @@ Style/OperatorMethodCall:
 
 Style/PercentLiteralDelimiters:
   PreferredDelimiters:
-    default: '()'
-    '%i': '()'
-    '%I': '()'
-    '%r': '()'
-    '%w': '()'
-    '%W': '()'
+    default: "()"
+    "%i": "()"
+    "%I": "()"
+    "%r": "()"
+    "%w": "()"
+    "%W": "()"
 
 Style/QuotedSymbols:
+  Enabled: true
+
+Style/RedundantArrayConstructor:
   Enabled: true
 
 Style/RedundantArgument:
   Enabled: true
 
 Style/RedundantConstantBase:
+  Enabled: true
+
+Style/RedundantCurrentDirectoryInPath:
   Enabled: true
 
 Style/RedundantDoubleSplatHashBraces:
@@ -161,6 +170,9 @@ Style/RedundantEach:
   Enabled: true
 
 Style/RedundantFetchBlock:
+  Enabled: true
+
+Style/RedundantFilterChain:
   Enabled: true
 
 Style/RedundantFreeze:
@@ -175,6 +187,12 @@ Style/RedundantInitialize:
 Style/RedundantLineContinuation:
   Enabled: true
 
+Style/RedundantRegexpArgument:
+  Enabled: true
+
+Style/RedundantRegexpConstructor:
+  Enabled: true
+
 Style/RedundantSelf:
   Enabled: true
 
@@ -182,6 +200,9 @@ Style/RedundantSelfAssignmentBranch:
   Enabled: true
 
 Style/RedundantStringEscape:
+  Enabled: true
+
+Style/ReturnNilInPredicateMethodDefinition:
   Enabled: true
 
 Style/SelectByRegexp:
@@ -197,4 +218,7 @@ Style/SymbolArray:
   EnforcedStyle: brackets
 
 Style/TrailingCommaInHashLiteral:
+  Enabled: true
+
+Style/YAMLFileRead:
   Enabled: true

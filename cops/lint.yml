@@ -40,6 +40,9 @@ Lint/IncompatibleIoSelectWithFiberScheduler:
 Lint/LambdaWithoutLiteralBlock:
   Enabled: true
 
+Lint/MixedCaseRange:
+  Enabled: true
+
 Lint/NoReturnInBeginEndBlocks:
   Enabled: true
 
@@ -53,6 +56,9 @@ Lint/OrAssignmentToConstant:
   Enabled: true
 
 Lint/RedundantDirGlobSort:
+  Enabled: true
+
+Lint/RedundantRegexpQuantifiers:
   Enabled: true
 
 Lint/RefinementImportMethods:
