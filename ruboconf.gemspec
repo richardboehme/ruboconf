@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = 'ruboconf'
-  spec.version = '1.11.0'
+  spec.version = '1.12.0'
   spec.authors = ['Richard Böhme']
   spec.email = ['richard.boehme1999@gmail.com']
 
