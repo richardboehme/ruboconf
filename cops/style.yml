@@ -208,7 +208,13 @@ Style/ReturnNilInPredicateMethodDefinition:
 Style/SelectByRegexp:
   Enabled: true
 
+Style/SingleLineDoEndBlock:
+  Enabled: true
+
 Style/StringChars:
+  Enabled: true
+
+Style/SuperWithArgsParentheses:
   Enabled: true
 
 Style/SwapValues:
