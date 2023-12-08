@@ -19,6 +19,9 @@ Performance/ConstantRegexp:
 Performance/MapCompact:
   Enabled: true
 
+Performance/MapMethodChain:
+  Enabled: true
+
 Performance/MethodObjectAsBlock:
   Enabled: true
 
