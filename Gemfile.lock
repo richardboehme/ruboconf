@@ -17,7 +17,7 @@ GEM
       racc
     racc (1.7.3)
     rainbow (3.1.1)
-    rake (13.0.6)
+    rake (13.1.0)
     regexp_parser (2.9.0)
     rexml (3.2.6)
     rubocop (1.61.0)
@@ -43,7 +43,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  rake (~> 13.0)
+  rake (~> 13.1)
   ruboconf!
 
 BUNDLED WITH
