@@ -94,6 +94,9 @@ Style/MagicCommentFormat:
 Style/MapCompactWithConditionalBlock:
   Enabled: true
 
+Style/MapIntoArray:
+  Enabled: true
+
 Style/MapToHash:
   Enabled: true
 
@@ -184,6 +187,9 @@ Style/RedundantHeredocDelimiterQuotes:
 Style/RedundantInitialize:
   Enabled: true
 
+Style/RedundantInterpolationUnfreeze:
+  Enabled: true
+
 Style/RedundantLineContinuation:
   Enabled: true
 
@@ -208,10 +214,16 @@ Style/ReturnNilInPredicateMethodDefinition:
 Style/SelectByRegexp:
   Enabled: true
 
+Style/SendWithLiteralMethodName:
+  Enabled: true
+
 Style/SingleLineDoEndBlock:
   Enabled: true
 
 Style/StringChars:
+  Enabled: true
+
+Style/SuperArguments:
   Enabled: true
 
 Style/SuperWithArgsParentheses:

@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
     end
   end
 
-  spec.add_dependency 'rubocop', '~> 1.61.0'
-  spec.add_dependency 'rubocop-performance', '~> 1.20.0'
+  spec.add_dependency 'rubocop', '~> 1.66.0'
+  spec.add_dependency 'rubocop-performance', '~> 1.22.0'
   spec.metadata['rubygems_mfa_required'] = 'true'
 end

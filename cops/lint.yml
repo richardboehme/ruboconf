@@ -97,6 +97,9 @@ Lint/UnusedBlockArgument:
 Lint/UselessAssignment:
   Enabled: true
 
+Lint/UselessNumericOperation:
+  Enabled: true
+
 Lint/UselessRescue:
   Enabled: true
 
