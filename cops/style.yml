@@ -223,6 +223,10 @@ Style/SingleLineDoEndBlock:
 Style/StringChars:
   Enabled: true
 
+Style/StringLiterals:
+  Enabled: true
+  EnforcedStyle: double_quotes
+
 Style/SuperArguments:
   Enabled: true
 
