@@ -25,6 +25,9 @@ Lint/DuplicateMatchPattern:
 Lint/DuplicateRegexpCharacterClassElement:
   Enabled: true
 
+Lint/DuplicateSetElement:
+  Enabled: true
+
 Lint/EmptyBlock:
   Enabled: true
 
@@ -83,6 +86,9 @@ Lint/ToEnumArguments:
   Enabled: true
 
 Lint/TripleQuotes:
+  Enabled: true
+
+Lint/UnescapedBracketInRegexp:
   Enabled: true
 
 Lint/UnexpectedBlockArity:

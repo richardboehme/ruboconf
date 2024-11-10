@@ -1,13 +1,22 @@
+Style/AmbiguousEndlessMethodDefinition:
+  Enabled: true
+
 Style/ArgumentsForwarding:
   Enabled: true
 
 Style/ArrayIntersect:
   Enabled: true
 
+Style/BitwisePredicate:
+  Enabled: true
+
 Style/ClassAndModuleChildren:
   EnforcedStyle: compact
 
 Style/CollectionCompact:
+  Enabled: true
+
+Style/CombinableDefined:
   Enabled: true
 
 Style/ComparableClamp:
@@ -81,6 +90,9 @@ Style/IfWithBooleanLiteralBranches:
 
 Style/InPatternThen:
   Enabled: false
+
+Style/KeywordArgumentsMerging:
+  Enabled: true
 
 Style/Lambda:
   EnforcedStyle: literal
@@ -210,6 +222,9 @@ Style/RedundantStringEscape:
 
 Style/ReturnNilInPredicateMethodDefinition:
   Enabled: true
+
+Style/SafeNavigationChainLength:
+  Enabled: false
 
 Style/SelectByRegexp:
   Enabled: true
