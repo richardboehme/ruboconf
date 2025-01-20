@@ -46,6 +46,9 @@ Performance/SortReverse:
 Performance/Squeeze:
   Enabled: true
 
+Performance/StringBytesize:
+  Enabled: true
+
 Performance/StringIdentifierArgument:
   Enabled: true
 

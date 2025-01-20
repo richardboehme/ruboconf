@@ -28,6 +28,9 @@ Style/ConcatArrayLiterals:
 Style/DataInheritance:
   Enabled: true
 
+Style/DigChain:
+  Enabled: true
+
 Style/DirEmpty:
   Enabled: true
 
@@ -58,7 +61,13 @@ Style/FetchEnvVar:
 Style/FileEmpty:
   Enabled: true
 
+Style/FileNull:
+  Enabled: true
+
 Style/FileRead:
+  Enabled: true
+
+Style/FileTouch:
   Enabled: true
 
 Style/FileWrite:
@@ -90,6 +99,9 @@ Style/IfWithBooleanLiteralBranches:
 
 Style/InPatternThen:
   Enabled: false
+
+Style/ItAssignment:
+  Enabled: true
 
 Style/KeywordArgumentsMerging:
   Enabled: true

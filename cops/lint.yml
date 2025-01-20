@@ -10,6 +10,9 @@ Lint/AmbiguousRange:
 Lint/ConstantOverwrittenInRescue:
   Enabled: true
 
+Lint/ConstantReassignment:
+  Enabled: true
+
 Lint/DeprecatedConstants:
   Enabled: true
 
@@ -37,6 +40,9 @@ Lint/EmptyClass:
 Lint/EmptyInPattern:
   Enabled: true
 
+Lint/HashNewWithKeywordArgumentsAsDefault:
+  Enabled: true
+
 Lint/IncompatibleIoSelectWithFiberScheduler:
   Enabled: true
 
@@ -61,6 +67,9 @@ Lint/NonAtomicFileOperation:
 Lint/NumberedParameterAssignment:
   Enabled: true
 
+Lint/NumericOperationWithConstantResult:
+  Enabled: true
+
 Lint/OrAssignmentToConstant:
   Enabled: true
 
@@ -77,6 +86,9 @@ Lint/RequireRangeParentheses:
   Enabled: true
 
 Lint/RequireRelativeSelfPath:
+  Enabled: true
+
+Lint/SharedMutableDefault:
   Enabled: true
 
 Lint/SymbolConversion:
@@ -101,6 +113,9 @@ Lint/UnusedBlockArgument:
   IgnoreEmptyBlocks: false
 
 Lint/UselessAssignment:
+  Enabled: true
+
+Lint/UselessDefined:
   Enabled: true
 
 Lint/UselessNumericOperation:
