@@ -7,10 +7,19 @@ Lint/AmbiguousOperatorPrecedence:
 Lint/AmbiguousRange:
   Enabled: true
 
+Lint/ArrayLiteralInRegexp:
+  Enabled: true
+
+Lint/AssignmentInCondition:
+  Enabled: true
+
 Lint/ConstantOverwrittenInRescue:
   Enabled: true
 
 Lint/ConstantReassignment:
+  Enabled: true
+
+Lint/CopDirectiveSyntax:
   Enabled: true
 
 Lint/DeprecatedConstants:
@@ -79,6 +88,9 @@ Lint/RedundantDirGlobSort:
 Lint/RedundantRegexpQuantifiers:
   Enabled: true
 
+Lint/RedundantTypeConversion:
+  Enabled: true
+
 Lint/RefinementImportMethods:
   Enabled: true
 
@@ -89,6 +101,9 @@ Lint/RequireRelativeSelfPath:
   Enabled: true
 
 Lint/SharedMutableDefault:
+  Enabled: true
+
+Lint/SuppressedExceptionInNumberConversion:
   Enabled: true
 
 Lint/SymbolConversion:
@@ -115,10 +130,19 @@ Lint/UnusedBlockArgument:
 Lint/UselessAssignment:
   Enabled: true
 
+Lint/UselessConstantScoping:
+  Enabled: true
+
+Lint/UselessDefaultValueArgument:
+  Enabled: true
+
 Lint/UselessDefined:
   Enabled: true
 
 Lint/UselessNumericOperation:
+  Enabled: true
+
+Lint/UselessOr:
   Enabled: true
 
 Lint/UselessRescue:

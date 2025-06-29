@@ -57,3 +57,6 @@ Performance/StringInclude:
 
 Performance/Sum:
   Enabled: true
+
+Performance/ZipWithoutBlock:
+  Enabled: true
