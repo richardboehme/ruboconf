@@ -1,9 +1,11 @@
 Naming/BlockForwarding:
   Enabled: true
 
-Naming/VariableNumber:
-  EnforcedStyle: snake_case
-
 Naming/MethodParameterName:
   Enabled: false
 
+Naming/PredicateMethod:
+  Enabled: true
+
+Naming/VariableNumber:
+  EnforcedStyle: snake_case

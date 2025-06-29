@@ -16,7 +16,13 @@ Style/ClassAndModuleChildren:
 Style/CollectionCompact:
   Enabled: true
 
+Style/CollectionQuerying:
+  Enabled: true
+
 Style/CombinableDefined:
+  Enabled: true
+
+Style/ComparableBetween:
   Enabled: true
 
 Style/ComparableClamp:
@@ -45,6 +51,9 @@ Style/EmptyHeredoc:
 
 Style/EmptyMethod:
   EnforcedStyle: expanded
+
+Style/EmptyStringInsideInterpolation:
+  Enabled: false
 
 Style/EndlessMethod:
   Enabled: true
@@ -88,6 +97,12 @@ Style/HashConversion:
 Style/HashExcept:
   Enabled: true
 
+Style/HashFetchChain:
+  Enabled: true
+
+Style/HashSlice:
+  Enabled: true
+
 Style/HashSyntax:
   EnforcedShorthandSyntax: either
 
@@ -102,6 +117,10 @@ Style/InPatternThen:
 
 Style/ItAssignment:
   Enabled: true
+
+Style/ItBlockParameter:
+  Enabled: true
+  EnforcedStyle: only_numbered_parameters
 
 Style/KeywordArgumentsMerging:
   Enabled: true
@@ -181,6 +200,9 @@ Style/QuotedSymbols:
 Style/RedundantArrayConstructor:
   Enabled: true
 
+Style/RedundantArrayFlatten:
+  Enabled: true
+
 Style/RedundantArgument:
   Enabled: true
 
@@ -200,6 +222,9 @@ Style/RedundantFetchBlock:
   Enabled: true
 
 Style/RedundantFilterChain:
+  Enabled: true
+
+Style/RedundantFormat:
   Enabled: true
 
 Style/RedundantFreeze:
