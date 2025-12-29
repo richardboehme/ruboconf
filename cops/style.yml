@@ -7,6 +7,9 @@ Style/ArgumentsForwarding:
 Style/ArrayIntersect:
   Enabled: true
 
+Style/ArrayIntersectWithSingleElement:
+  Enabled: true
+
 Style/BitwisePredicate:
   Enabled: true
 
@@ -147,6 +150,9 @@ Style/MapToSet:
   Enabled: true
 
 Style/MinMaxComparison:
+  Enabled: true
+
+Style/ModuleMemberExistenceCheck:
   Enabled: true
 
 Style/MultilineInPatternThen:

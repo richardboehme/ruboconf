@@ -15,6 +15,9 @@ Layout/EmptyLines:
 Layout/EmptyLineAfterMagicComment:
   Enabled: true
 
+Layout/EmptyLinesAfterModuleInclusion:
+  Enabled: true
+
 Layout/EmptyLinesAroundBlockBody:
   Enabled: true
 
