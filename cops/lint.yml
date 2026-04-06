@@ -22,6 +22,9 @@ Lint/ConstantReassignment:
 Lint/CopDirectiveSyntax:
   Enabled: true
 
+Lint/DataDefineOverride:
+  Enabled: true
+
 Lint/DeprecatedConstants:
   Enabled: true
 
@@ -122,6 +125,9 @@ Lint/UnexpectedBlockArity:
   Enabled: true
 
 Lint/UnmodifiedReduceAccumulator:
+  Enabled: true
+
+Lint/UnreachablePatternBranch:
   Enabled: true
 
 Lint/UnusedBlockArgument:
